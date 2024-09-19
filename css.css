@@ -1,0 +1,210 @@
+img{
+    padding-left: 75px;
+    padding-top:50px ;
+    padding-bottom:20px ;
+    padding-right: 75px;
+}
+
+.piece{
+    font-family: montserrat;
+    background-color: rgb(207, 203, 203);
+}
+.Descubra{
+    text-decoration: underline;
+    font-size: 45px;
+    padding: 10px 400px;
+}
+.princinpais{
+    padding: 10px 450px;
+    text-decoration: underline;
+
+}
+.One piece.html{
+    color:blue;
+    text-decoration: underline (blue);
+}
+
+.veja{
+    text-decoration: underline black;
+    text-align: center;
+    padding-top:70px;
+    font-size: 20px;
+}
+
+.paragrafo{
+    font-size: 23px;
+    padding:10px 50px;
+    text-indent: 1.5rem;
+}
+
+a{
+    padding:0px 50px;
+    font-size: 23px;
+    padding-bottom:2px;
+}
+
+.One{
+    font-size: 40px;
+    padding: 10px 150px;
+}
+
+.div_piece{
+    width: 1400px;
+    margin-right:40px;
+    margin-left: 50px;
+    background-color: white;
+    height:3000px;
+}
+
+hr{
+    width: 90%;
+    margin-top: 5px;
+}
+
+.div_bordar{
+    border-style:solid; 
+    border-width: 1px;
+    color:black;
+    width:250px;
+    margin-top:25px;
+    margin-bottom:20px;
+    margin-left:100px;
+    margin-right: 50px;
+}
+
+.div_conteudo{
+    border-style: solid;
+    border-width:1px;
+    width:249px;
+    height: 60px;
+    background-color: rgb(81, 181, 253);
+    margin-left:0px ;
+    margin-right: 60px;
+    text-align: center;
+}
+
+.conteudo{
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+
+a{
+    font-size:20px ;
+    color: black;
+}
+.pp{
+    margin-top: 60px;
+    width: 100%;
+    padding: 10px 100px;
+    padding-top: 0px;
+}
+.ppp{
+    width: 100%;
+    padding: 10px 100px;
+    margin-top:0px;
+}
+
+#Sinopse{
+    padding: 0px 170px;
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-weight:500;
+}
+
+#Premissa{
+    padding: 10px 170px;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+#Enredo{
+    padding: 10px 170px;
+    font-size: 40px;
+    margin-top: 20px;
+    
+}
+
+#Produção{
+    padding: 0px 170px;
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-weight:500;
+}
+
+#Mídia{
+    padding: 0px 170px;
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-weight:500; 
+}
+
+#Mangá{
+    padding: 10px 170px;
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+.div_cava{
+    width: 1400px;
+    margin-right:40px;
+    margin-left: 50px;
+    background-color: rgb(251, 251, 251);
+    height:4000px;
+}
+.Cavaleiros{
+    font-size: 40px;
+    padding: 10px 150px;
+    padding-top: 30px;
+}
+.div_black{
+    border-style:solid; 
+    border-width: 1px;
+    color:black;
+    width:230px;
+    margin-top:25px;
+    margin-bottom:20px;
+    margin-left:100px;
+    margin-right: 50px;
+    height: 230px;
+}
+.div_blue{
+    border-style: solid;
+    border-width:1px;
+    width:230px;
+    height: 60px;
+    background-color: rgb(81, 181, 253);
+    margin-left:0px ;
+    margin-right: 60px;
+    text-align: center;
+}
+
+#enredo{
+    padding: 10px 170px;
+    font-size: 40px;
+    margin-top: 20px;
+    font-weight:500;
+}
+
+#produção{
+    padding: 10px 170px;
+    font-size: 40px;
+    margin-top: 20px;
+    font-weight:500;
+}
+
+#mídia{
+    padding: 10px 170px;
+    font-size: 40px;
+    margin-top: 20px;
+    font-weight:500;
+}
+
+#mangá{
+    padding: 10px 170px;
+    font-size: 50px;
+    margin-top: 20px;
+}
